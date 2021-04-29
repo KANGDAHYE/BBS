@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700&family=Noto+Sans+KR:wght@100;300;400;500&display=swap');
+
+*{
+	font-family: 'Nanum+Myeongjo';
+}
+h1{
+	font-family: 'Nanum+Myeongjo';
+}
